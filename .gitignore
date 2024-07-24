@@ -1,5 +1,6 @@
 #Ignore all CSV and PNG Files
 *.png
 *.csv
+.DS_Store
 __pyache__/
 .vscode/
