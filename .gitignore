@@ -1,0 +1,5 @@
+#Ignore all CSV and PNG Files
+*.png
+*.csv
+__pyache__/
+.vscode/
